@@ -2,33 +2,33 @@
     
     width: 100%;
     height: 1400px;
-    background-color: goldenrod;
+    background-color: gray;
 }
 .encabezado{
 
     width: 100%;
     height: 150px;
-    background-color: rgb(231, 231, 84);
+    background-color: mediumslateblue;
 }
 .menu{
 
     width: 100%;
     height: 100px;
-    background-color: rgb(200, 200, 57);
+    background-color: rgb(0, 0, 0);
     display: flex;
 }
 .contenedor2{
 
     width: 100%;
     height: 1200px;
-    background-color: rgb(245, 245, 33);
+    background-color: rgba(128, 128, 128, 0.863);
     display: flex;
 }
 .izquierdo{
 
     width: 20%;
     height: 1200px;
-    background-color: peru;
+    background-color: gray;
 }
 .centro{
 
@@ -40,35 +40,141 @@
 
     width: 20%;
     height: 1200px;
-    background-color: peru;
+    background-color: gray;
 }
 .sociales{
     width: 100px;
     height: 98px;
-    background-color: chocolate;
+    background-color: beige;
     margin: 2px;
 }
 .inglés{
     width: 100px;
     height: 98px;
-    background-color:rgb(174, 30, 210);
+    background-color: hotpink;
     margin: 2px;
 }
 .matemáticas{
     width: 100px;
     height: 98px;
-    background-color: coral;
+    background-color: darksalmon;
     margin: 2px;
 }
 .biología{
     width: 100px;
     height: 98px;
-    background-color: dodgerblue;
+    background-color: blueviolet;
     margin: 2px;
 }
 .tecnología{
     width: 100px;
     height: 98px;
-    background-color: firebrick;
+    background-color: lightskyblue;
     margin: 2px;
+}
+
+.carl{
+    color: brown;
+}
+
+.aportes{
+    color: brown;
+}
+
+.elegi{
+    color: brown;
+}
+.estadistica{
+    color: brown;
+}
+.importancia{
+color: brown;
+}
+.EJEMPLO{
+color: brown;
+}
+
+.situacion{
+    color: brown;
+}
+.Gobierno{
+    color: brown;
+}
+.objetivos{
+    color: brown;
+}.funciones{
+    color: brown;
+}
+.Democracia{
+    color: brown;
+}
+.objetivo{
+    color: brown;
+}
+
+.objetivo{
+    color: brown;
+}
+.ejercicio{
+    color: brown;
+}
+.energía{
+    color: brown;
+}
+.renovables{
+    color: brown;
+}
+.tipos{
+    color: brown;
+}
+.solar{
+    color: brown;
+}
+.hidraulica{
+    color: brown;
+}
+.mar{
+    color: brown;
+}
+.eólica{
+    color: brown;
+}
+.no{
+color: brown;
+}
+.Tipos{
+    color: brown;
+}
+.petróleo{
+    color: brown;
+}
+.gas{
+    color: brown;
+}
+.carbón{
+    color: brown;
+}
+.enfermedades{
+    color: brown;
+}
+.tipos{
+    color: brown;
+}
+.causas{
+    color: brown;
+}
+.afectados{
+    color: brown;
+}
+.sintomas{
+    color: brown;
+}
+.síntomas{
+    color: brown;
+}
+.tratamiento{
+    color: brown;
+}
+.prevenir{
+    color: brown;
 }
